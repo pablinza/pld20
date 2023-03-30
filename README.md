@@ -9,12 +9,12 @@ Documentos creados, sintetizados e implementados en la fpga EP2C5T144B.
 
 Se debe contar con el programador USB-Blaster y Quartus II Web Edition 13.0.
 
-- Extension **.qpf**  Proyecto Quartus
-- Extension **.v**    Modulo descriptivo verilog
-- Extension **_tb.v** Modulo de estimulo verilog(TestBench)
-- Entension **.png**  Imagen del esquema de circuito
-- Extension **.bdf**  Diagrama de bloques Quartus
-- Extension **.bsd**  Simbolo gráfico de un modulo HDL
+- Extension **.qpf**   Proyecto Quartus
+- Extension **.v**     Modulo descriptivo verilog
+- Extension **_tb.v**  Modulo de estimulo verilog(TestBench)
+- Entension **.png**   Imagen del esquema de circuito
+- Extension **.bdf**   Diagrama de bloques Quartus
+- Extension **.bsd**   Simbolo gráfico de un modulo HDL
 
 Las practicas estan ordenadas de acuerdo a su nombre de archivo.
 

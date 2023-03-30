@@ -1,5 +1,5 @@
 # pld20
-# Laboratorios Practicos UEB
+# Laboratorio Digitales UEB
 Material de Apoyo para Sistemas Digitales - UEB
 Descripción de Circuitos Digitales con Verilog
 

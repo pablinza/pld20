@@ -1,7 +1,20 @@
 # pld20
 ## Laboratorios Practicos UEB
 Material de Apoyo para Sistemas Digitales - UEB
-Descripción de Circuitos Digitales con Verilog 
+Descripción de Circuitos Digitales con Verilog
+
+Carpeta con los ejercicios practicos efectuados en el laboratorio.
+Documentos creados, sintetizados e implementados en la fpga EP2C5T144B.
+Se debe contar con el programador USB-Blaster y Quartus II Web Edition 13.0.
+
+Los archivos con extension .v corresponden al codigo fuente de la practica
+
+Los archivos con extension .v y nombre _tb_ son para la simulacion RTL(TestBench)
+
+Los archivos con extension .png corresponden a una imagen de esquema de circuito
+
+Las practicas estan ordenadas de acuerdo a su nombre de archivo.
+
 
 **Parte #1 Circuitos Combinatorios (CC)**
 

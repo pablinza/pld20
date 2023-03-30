@@ -40,7 +40,10 @@ Las practicas estan ordenadas de acuerdo a su nombre de archivo.
 
   
 Contacto:
-Pablo Zarate Arancibia / pablinza@me.com 
-Santa Cruz de la Sierra - Bolivia
+Pablo Zarate Arancibia / pablinza@me.com.
+
+Santa Cruz de la Sierra - Bolivia.
+
 https://pcz2.blogspot.com
+
 https://pcz1.blogspot.com

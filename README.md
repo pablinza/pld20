@@ -18,26 +18,29 @@ Los archivos con extension .png corresponden a una imagen de esquema de circuito
 Las practicas estan ordenadas de acuerdo a su nombre de archivo.
 
 
-## **Parte #1 Circuitos Combinatorios (CC)**
+## **Parte #1 Circuitos Combinatorios (DIG1)**
 
-## **Parte #2 Circuito Secuenciales (CS)**
+## **Parte #2 Circuito Secuenciales (DIG2)**
 
-- **LAB21**: Contador MOD-10 que visualiza los segundos en una pantalla de 7-segmentos.
+- **dig2lab1**: Contador MOD-10 que visualiza los segundos en una pantalla de 7-segmentos.
 
-- **LAB22**: Control de nivel de agua en deposito con histeresis 
+- **dig2lab2**: Control de nivel de agua en deposito con histeresis 
   
-- **LAB23**: Memoria RAM de 64-bit y canal simple para bus de datos y direcciones.
+- **dig2lab3**: Memoria RAM de 64-bit y canal simple para bus de datos y direcciones.
 
-- **LAB24**: Control de velocidad y dirección en Motor Paso a Paso 
+- **dig2lab4**: Control de velocidad y dirección en Motor Paso a Paso 
 
-- **LAB25**: Control de Trafico vehicular para paso peatonal
+- **dig2lab5**: Control de Trafico vehicular para paso peatonal
 
-- **LAB26**: Contador 0-999 que visualiza decimas de segundo en tres pantallas de 7-segmentos.
+- **dig2lab6**: Contador 0-999 que visualiza decimas de segundo en tres pantallas de 7-segmentos.
 
-- **LAB27**: Modulador de señal PWM para servomotor con resolucion de 8-bit.
+- **dig2lab7**: Modulador de señal PWM para servomotor con resolucion de 8-bit.
 
-- **LAB28**: Medidor de ancho de pulso para sensor de distancia HC-SR04.
+- **dig2lab8**: Medidor de ancho de pulso para sensor de distancia HC-SR04.
 
   
 Contacto:
-Pablo Zarate Arancibia / pablinzte@gmail.com  
+Pablo Zarate Arancibia / pablinza@me.com 
+Santa Cruz de la Sierra - Bolivia
+https://pcz2.blogspot.com
+https://pcz1.blogspot.com

@@ -1,10 +1,11 @@
 # pld20
+## Laboratorios Practicos UEB
 Material de Apoyo para Sistemas Digitales - UEB
 Descripción de Circuitos Digitales con Verilog 
 
-Parte #1 Circuitos Combinatorios (CC)
+**Parte #1 Circuitos Combinatorios (CC)**
 
-Parte #2 Circuito Secuenciales (CS)
+**Parte #2 Circuito Secuenciales (CS)**
 
 - lab01: Contador MOD-10 que visualiza los segundos en una pantalla de 7-segmentos.
   

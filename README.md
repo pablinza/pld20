@@ -1,10 +1,12 @@
 # pld20
-## Laboratorios Practicos UEB
+# Laboratorios Practicos UEB
 Material de Apoyo para Sistemas Digitales - UEB
 Descripción de Circuitos Digitales con Verilog
 
 Carpeta con los ejercicios practicos efectuados en el laboratorio.
+
 Documentos creados, sintetizados e implementados en la fpga EP2C5T144B.
+
 Se debe contar con el programador USB-Blaster y Quartus II Web Edition 13.0.
 
 Los archivos con extension .v corresponden al codigo fuente de la practica
@@ -16,9 +18,9 @@ Los archivos con extension .png corresponden a una imagen de esquema de circuito
 Las practicas estan ordenadas de acuerdo a su nombre de archivo.
 
 
-**Parte #1 Circuitos Combinatorios (CC)**
+## **Parte #1 Circuitos Combinatorios (CC)**
 
-**Parte #2 Circuito Secuenciales (CS)**
+## **Parte #2 Circuito Secuenciales (CS)**
 
 - **LAB21**: Contador MOD-10 que visualiza los segundos en una pantalla de 7-segmentos.
 

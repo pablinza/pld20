@@ -24,9 +24,9 @@ Las practicas estan ordenadas de acuerdo a su nombre de archivo.
 
 - **dig2lab1**: Contador MOD-10 que visualiza los segundos en una pantalla de 7-segmentos.
 
-- **dig2lab2**: Control de nivel de agua en deposito con histeresis 
+- **dig2lab2**: Memoria RAM de 64-bit y canal simple para bus de datos y direcciones 
   
-- **dig2lab3**: Memoria RAM de 64-bit y canal simple para bus de datos y direcciones.
+- **dig2lab3**: Detector de secuencia 010010 para encendido vehicular.
 
 - **dig2lab4**: Control de velocidad y dirección en Motor Paso a Paso 
 

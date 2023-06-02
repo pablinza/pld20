@@ -24,14 +24,14 @@ else
   case(state)
     STA0://Captura entrada A
     begin
-		if(inb == 0) state <= STA1;
+      if(inb == 0) state <= STA1;
       else state <= STA0;
     end
     STA1: //Captura entrada A
       if(inb == 1) state <= CHOK;
       else state <= STA1;
     CHOK: //Verifica entrada B
-	   if(ina == 1) state <= FWRD;//Adelante
+       if(ina == 1) state <= FWRD;//Adelante
        else state <= BWRD; //Atras
    FWRD: //Incrementa el contador
      begin
@@ -45,7 +45,7 @@ else
        else cnt <= 14'd9999;
        state <= STA0;
      end
-	 default: state <= STA0; 
+   default: state <= STA0; 
   endcase
 
 endmodule

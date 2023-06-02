@@ -1,5 +1,5 @@
 /* Descripcion FSM moore para encoder rotatorio
- * fwd indica sentido y rate de giro, con pulsador  
+ * salida dato incrementa o decrementa con giro encoder  
  * Sistemas Digitales II laboratorio 7 de la Unidad 5 */
 module fsm6(clk, rstn, ina, inb, data);
 input clk, rstn; //Frecuencia de muestro, recomandable 1Khz

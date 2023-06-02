@@ -22,21 +22,21 @@ Las practicas estan ordenadas de acuerdo a su nombre de archivo.
 
 ## **Parte #2 Circuito Secuenciales (DIG2)**
 
-- **dig2lab1**: Contador MOD-10 que visualiza los segundos en una pantalla de 7-segmentos.
+- **dig2lab1**: Contador MOD-10 que visualiza los segundos en una pantalla de 7-segmentos
 
 - **dig2lab2**: Memoria RAM de 64-bit y canal simple para bus de datos y direcciones 
   
-- **dig2lab3**: Detector de secuencia 010010 para encendido vehicular.
+- **dig2lab3**: Detector de secuencia 010010 para encendido vehicular
 
 - **dig2lab4**: Control de velocidad y dirección en Motor Paso a Paso 
 
 - **dig2lab5**: Control de Trafico vehicular para paso peatonal
 
-- **dig2lab6**: Contador 0-999 que visualiza decimas de segundo en tres pantallas de 7-segmentos.
+- **dig2lab6**: Encoder Rotativo de 0000-9999 en pantallas de 7-segmentos
+- 
+- **dig2lab7**: Modulador de señal PWM para servomotor con resolucion de 8-bit
 
-- **dig2lab7**: Modulador de señal PWM para servomotor con resolucion de 8-bit.
-
-- **dig2lab8**: Medidor de ancho de pulso para sensor de distancia HC-SR04.
+- **dig2lab8**: Medidor de ancho de pulso para sensor de distancia HC-SR04
 
   
 Contacto:

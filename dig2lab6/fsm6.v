@@ -1,6 +1,6 @@
 /* Descripcion FSM moore para encoder rotatorio
  * salida dato incrementa o decrementa con giro encoder  
- * Sistemas Digitales II laboratorio 7 de la Unidad 5 */
+ * Sistemas Digitales II laboratorio 6 de la Unidad 5 */
 module fsm6(clk, rstn, ina, inb, data);
 input clk, rstn; //Frecuencia de muestro, recomandable 1Khz
 input ina, inb; //Entradas del encoder, con desfase de 90

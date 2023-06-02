@@ -33,7 +33,7 @@ Las practicas estan ordenadas de acuerdo a su nombre de archivo.
 - **dig2lab5**: Control de Trafico vehicular para paso peatonal
 
 - **dig2lab6**: Encoder Rotativo de 0000-9999 en pantallas de 7-segmentos
-- 
+
 - **dig2lab7**: Modulador de señal PWM para servomotor con resolucion de 8-bit
 
 - **dig2lab8**: Medidor de ancho de pulso para sensor de distancia HC-SR04
